@@ -3,6 +3,7 @@ module github.com/example/clean-architecture
 go 1.21
 
 require (
+	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/gin-gonic/gin v1.9.1
 	github.com/microsoft/go-mssqldb v0.20.0
 	github.com/stretchr/testify v1.11.1
